@@ -10,7 +10,7 @@ This repository includes a complete documentation report covering:
 
 ## 📄 Report PDF
 You can view or download the full report here:
-➡️ [Database_Report.pdf](./Database_Course.pdf)
+➡️ [Database Course.pdf](./Database Course.pdf)
 
 ## 🧠 Mind Map Preview
 ![DBMS Mind Map](./mindmap.png)
