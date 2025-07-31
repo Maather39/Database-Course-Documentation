@@ -9,8 +9,7 @@ This repository includes a complete documentation report covering:
 - ✅ Cloud Storage & Databases overview
 
 ## 📄 Report PDF
-You can view or download the full report here:
-➡️ [Database_Course.pdf](./Database Course.pdf)
+You can view or download the full report here: [Database_Report.pdf](./Database_Report.pdf)
 
 ## 🧠 Mind Map Preview
 ![DBMS Mind Map](./mindmap.png)
